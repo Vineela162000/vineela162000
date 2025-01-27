@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <<h1 align="center">Hi 👋, I'm vineela chejarla</h1>
 <h3 align="center">A passionate Full Stack Developer from United States</h3>
